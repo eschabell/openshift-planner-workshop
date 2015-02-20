@@ -19,5 +19,4 @@ That's it, you can now start your workshop at:
 
     http://plannerworkshop-$your_domain.rhcloud.com
 
-![Planner Workshop](https://raw.githubusercontent.com/eschabell/openshift-planner-workshop/master/php/cover.png)
-
+![Planner Workshop](https://raw.githubusercontent.com/eschabell/openshift-planner-workshop/master/cover.png)
