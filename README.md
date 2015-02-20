@@ -6,7 +6,7 @@ found in JBoss BPM Suite and JBoss BRMS products.
 
 Install with one click
 ----------------------
-[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to  install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=php-5.4&initial_git_url=https://github.com/eschabell/openshift-plannerworkshop.git&name=plannerworkshop)
+[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to  install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=php-5.4&initial_git_url=https://github.com/eschabell/openshift-planner-workshop.git&name=plannerworkshop)
 
 Manual setup on OpenShift
 -------------------------
