@@ -1,15 +1,15 @@
 Red Hat JBoss Business Resource Planner Workshop
 ================================================
 This git repository helps you get up and running quickly with a 
-Cloud hosted workshop getting you started with complex planning 
-of resources.
+cloud hosted workshop on JBoss Business Resource Planner component
+found in JBoss BPM Suite and JBoss BRMS products.
 
-Enjoy!
+Install with one click
+----------------------
+[![Click to install OpenShift](http://launch-shifter.rhcloud.com/launch/light/Click to  install.svg)](https://openshift.redhat.com/app/console/application_type/custom?&cartridges[]=php-5.4&initial_git_url=https://github.com/eschabell/openshift-plannerworkshop.git&name=plannerworkshop)
 
-Running on OpenShift
---------------------
-
-Create an account at http://openshift.redhat.com/
+Manual setup on OpenShift
+-------------------------
 
 Create a PHP application
 
