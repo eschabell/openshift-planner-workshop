@@ -1,3 +1,6 @@
+Update: June 2018 moved to [Gitlab](https://gitlab.com/eschabell/openshift-planner-workshop).
+
+
 Business Resource Planner Workshop
 ==================================
 This git repository helps you get up and running quickly with a 
